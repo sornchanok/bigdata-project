@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: kubernetes_asyncio
+Version: 29.0.0
+Summary: Kubernetes asynchronous python client
+Home-page: https://github.com/tomplus/kubernetes_asyncio
+Author: Kubernetes
+Author-email: 
+License: Apache License Version 2.0
+Keywords: Swagger,OpenAPI,Kubernetes
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Topic :: Utilities
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Information Technology
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+License-File: LICENSE
+Requires-Dist: certifi >=14.05.14
+Requires-Dist: six >=1.9.0
+Requires-Dist: python-dateutil >=2.5.3
+Requires-Dist: setuptools >=21.0.0
+Requires-Dist: urllib3 >=1.24.2
+Requires-Dist: pyyaml >=3.12
+Requires-Dist: aiohttp <4.0.0,>=3.9.0
+
+    Python client for kubernetes http://kubernetes.io/
+    
