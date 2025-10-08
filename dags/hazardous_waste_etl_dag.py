@@ -30,7 +30,7 @@ def extract_csv_data(**kwargs):
         print(f"Failed to read CSV from URL: {e}")
         raise
 
-# --- 2. ฟังก์ชัน Transform (อาจต้องตรวจสอบชื่อคอลัมน์) ---
+# ---Transform---
 def transform_waste_data(**kwargs):
     """แปลงข้อมูลของเสียอันตราย"""
     print("Starting data transformation...")

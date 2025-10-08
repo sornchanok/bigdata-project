@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+*.venv
+ENV/
+
+# Logs
+logs/
+*.log
+airflow_logs/
+
+# VSCode settings
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints (ถ้ามี notebook)
+.ipynb_checkpoints/
